@@ -1,0 +1,66 @@
+ h1 {color:#2D572C;
+   font-size: 70px;
+   font-family: "Orange Juice";
+   text-align: center;}
+h2 {font-size: 30px;
+    text-align: center;}
+p {font-size: 22px;}
+h4 {font-size: 30px;
+    text-align: center;}
+h3 {font-size: 35px;
+    text-align: center;}
+aside ul {font-size: 22px}
+.menu {background: #ad0000;
+	width: 100%;
+	font-size: 36px;
+    list-style: none;
+    margin: 0;
+    padding: 0;}
+.menu li {display: inline-block;}
+.menu li a {padding: 10px 20px;
+            display:inline-block; 
+            color: #fff;
+            text-decoration: none}
+.menu li a:hover {background: #f65e31;
+	              color:#fff;} 
+img {margin: auto;
+	width:300px;
+	display: block;}
+.Primero {background: #83e7ec;
+     font-size: 20px;
+	 width: 35%;
+	 padding: 5px 20px;
+	 text-align: center;
+	 margin: 0px 550px;}
+aside {background: #58f155;
+      width: 350px;
+      height: 370px;
+      padding:0px 20px;
+      margin: 40px 250;
+      display: inline-block;}
+.segundo { font-size: 24px;
+        background: #ff82db;
+         width: 350px;
+         height: : 370px;
+         padding: 40px 20px;
+         margin: 40px 250px;
+         display: inline-block;}
+.eslogan { text-align: center;
+           font-size: 34px;
+           color:#c9490d;} 
+h5 {font-size: 18px;
+    text-align: center;
+    width: 300px;
+    position: relative;
+    left:  775px;}
+.redes img {width: 40px;
+            height: 40px;
+            margin: 10px;}
+.sociales {text-align: center;}
+
+.sociales li {display: inline-block;}
+
+
+
+ 
+ 	            
